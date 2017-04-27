@@ -23,7 +23,7 @@
     "php" : "^7.0",
     "illuminate/contracts": "~5.3.0|~5.4.0",
     "illuminate/support": "~5.3.0|~5.4.0",
-    "google/apiclient" : "^1.1",
+    "google/apiclient" : "^2.1",
     "nesbot/carbon": "^1.21"
 
   },
